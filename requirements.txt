@@ -5,7 +5,7 @@ django-bootstrap3==15.0.0
 django-heroku==0.3.1
 importlib-metadata==2.1.1
 Pillow==8.3.1
-psycopg-binary==3.0b1
+# psycopg-binary==3.0b1
 psycopg2==2.7.5
 psycopg2-binary==2.9.1
 python-decouple==3.4

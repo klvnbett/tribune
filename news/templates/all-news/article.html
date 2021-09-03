@@ -8,6 +8,8 @@
 
     <div class="row">
         <h1 class="text-center">{{article.title}}</h1>
+        <p>{{article.post}}</p>
+        <p>Posted {{article.pub_date|timesince}} by {{article.editor.first_name}}</p>
     </div>
 
     <div class="row">
